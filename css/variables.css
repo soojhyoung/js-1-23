@@ -1,0 +1,9 @@
+:root {
+  --shadow: 1px 1px 9px rgb(44, 44, 44, 0.8);
+  --gray: rgba(255, 255, 255, 0.5);
+  --white2: rgba(255, 255, 255, 0.8);
+  --mint: rgba(100, 252, 255, 0.838);
+  --trans: 0.5s ease-in-out;
+  --pink: #ffafb0;
+  --brown: acb890;
+}
